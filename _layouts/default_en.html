@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico"/>
+
+    {% if page.cssLinks %}
+        {% for link in page.cssLinks %}
+            <link rel="stylesheet" href="{{ link }}" />
+        {% endfor %}
+    {% endif %}
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/en" class="site-avatar"><img src="{{ site.baseurl }}/{{ site.avatar }}" /></a>
+
+          <nav>
+            <a href="{{ site.baseurl }}/en">Home</a>
+            <a href="{{ site.baseurl }}/en/somatic">Somatic Education</a>
+            <a href="{{ site.baseurl }}/en/feldenkrais">Feldenkrais Method</a>
+            <a href="{{ site.baseurl }}/en/articles">Articles</a>
+            <a href="{{ site.baseurl }}/en/services">Services</a>
+            <a href="{{ site.baseurl }}/en/workshops">Workshops</a>
+            <a href="{{ site.baseurl }}/en/practitioners">Workshops for Feldenkrais Practitioners</a>
+            <a href="{{ site.baseurl }}/en/training">Professional Training</a>
+            <a href="{{ site.baseurl }}/en/links">Links</a>
+            <a href="{{ site.baseurl }}/en/contact">Contact Us</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include footer.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
