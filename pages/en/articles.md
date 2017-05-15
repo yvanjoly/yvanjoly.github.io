@@ -29,6 +29,7 @@ Three categories:
 * Somatics, Somatic Education (SE) and the Feldenkrais Method of SE
 
   <a href="{{ site.baseurl }}/downloads/Def_som_edu_somatics-eng.pdf" class="en">Somatic Education (SE) and the Feldenkrais Method of SE</a>
+  
   <a href="{{ site.baseurl }}/downloads/Def_es_esp.pdf" class="es">Definiciones de somático, educación somática y el MF de Es</a>
 
 * Survivre dans une Culture de Chaises
@@ -38,18 +39,23 @@ Three categories:
 * Qualitative Research and Somatic Education
   
   <a href="{{ site.baseurl }}/downloads/Som_edu_qual_resear-eng.pdf" class="en">Qualitative Research and Somatic Education</a>
+  
   <a href="{{ site.baseurl }}/downloads/Edu_som_rech_qual-fr.pdf" class="fr">La Recherche et la Pratique du Corps Vécu</a>
+  
   <a href="{{ site.baseurl }}/downloads/Edu_som_investig_cual-esp.pdf" class="es">La investigación y la práctica del cuerpo vivido</a>
   
 * Somatic Education Beyond Singular Methods
 
   <a href="{{ site.baseurl }}/downloads/Som_ed_beyond_sing_meth-eng.pdf" class="en">Somatic Education Beyond Singular Methods</a>
+  
   <a href="{{ site.baseurl }}/downloads/Educ_som_au-dela_du_disc-fr.pdf" class="fr">L'Éducation Somatique au-delà du Discours des Méthodes</a>
 
 * Somatic Education and Health
 
   <a href="{{ site.baseurl }}/downloads/Som_edu_health-eng.pdf" class="en">Somatic Education and Health</a>
+  
   <a href="{{ site.baseurl }}/downloads/Educ_som_sante-fr.pdf" class="fr">L'éducation Somatique et sa Pertinence pour la Santé</a>
+  
   <a href="{{ site.baseurl }}/downloads/Educ_som_salud-esp.pdf" class="es">Educación Somática y Salud</a>
   
 * Fondements Théoriques de l'Éducation Somatique - Plan de Cours
@@ -83,6 +89,7 @@ Three categories:
 * Somatic Education and Touch
 
   <a href="{{ site.baseurl }}/downloads/ISST-atelierYvan-Joly-en.pdf" class="en">Somatic Education and Touch</a>
+  
   <a href="{{ site.baseurl }}/downloads/ISST-atelierYvan-Joly-fr.pdf" class="fr">Éducation somatique et toucher</a>
 
 * Définition de l'Éducation somatique (Regroupement pour l'éducation somatique)
@@ -94,11 +101,13 @@ Three categories:
 * New Mutual coaching in FI: a list of topics
 
   <a href="{{ site.baseurl }}/downloads/Coaching2007.pdf" class="en">Mutual coaching in FI: a list of topics</a>
+  
   <a href="{{ site.baseurl }}/downloads/Analyse_de_IF-fr.pdf" class="fr">Jalons pour l'analyse et le coaching de l'IF</a>
   
 * New Felden-sutra: Combination of basic movement patterns and positions for lessons of Functional Integration® of the Feldenkrais Method
 
   <a href="{{ site.baseurl }}/downloads/Feldensutra_en.pdf" class="en">Felden-sutra: Combination of basic movement patterns and positions for lessons of Functional Integration® of the Feldenkrais Method</a>
+  
   <a href="{{ site.baseurl }}/downloads/Feldensutra_fr.pdf" class="fr">Felden-sutra: Tableau des schémas (« patterns ») de base et positions de base pour des leçons d’Intégration fonctionnelle de la Méthode Feldenkrais</a>
   
 * Advanced Training Themes in the Feldenkrais® Method of Functional Integration® (FI) and Awareness through Movement® (ATM)
@@ -108,6 +117,7 @@ Three categories:
 * List of distinction for ATM study
 
   <a href="{{ site.baseurl }}/downloads/ATM_distinctions_voc-eng.pdf" class="en">List of distinction for ATM study</a>
+  
   <a href="{{ site.baseurl }}/downloads/Fiche_analyse_de_PCM-fr.pdf" class="fr">Liste de Distinctions pour l'Analyse des Leçons de PCM</a>
   
 * Bibliography, “around” the Feldenkrais Method
@@ -117,6 +127,7 @@ Three categories:
 * Bibliography for the Feldenkrais Method®
 
   <a href="{{ site.baseurl }}/downloads/Biblio_FM-eng.pdf" class="en">Bibliography for the Feldenkrais Method®</a>
+  
   <a href="{{ site.baseurl }}/downloads/Biblio_FM-fr.pdf" class="fr">Bibliographie de la Méthode Feldenkrais®</a>
 
 * La méthode Feldenkrais®
@@ -126,7 +137,9 @@ Three categories:
 * The Feldenkrais® Method of Somatic Education?
 
   <a href="{{ site.baseurl }}/downloads/The_FM_Som_Ed-eng.pdf" class="en">The Feldenkrais® Method of Somatic Education?</a>
+  
   <a href="{{ site.baseurl }}/downloads/La_met_Fel_ed_som-fr.pdf" class="fr">La Méthode Feldenkrais® d'Éducation Somatique?</a>
+  
   <a href="{{ site.baseurl }}/downloads/El_metodo_Fel_de_Ed_so-esp.pdf" class="es">El metodo Feldenkrais® de educación somática</a>
   
 * 33 Overall FI Strategies
@@ -161,6 +174,7 @@ Three categories:
 * Feldenkrais Method and its Relevance to Dance
 
   <a href="{{ site.baseurl }}/downloads/Medfelden-danse-en.pdf" class="en">Feldenkrais Method and its Relevance to Dance</a>
+  
   <a href="{{ site.baseurl }}/downloads/Medfelden-danse-fr.pdf" class="fr">Méthode Feldenkrais et la danse</a>
 
 * Le Feldenkrais: une entrevue avec Yvan Joly
@@ -184,7 +198,9 @@ Three categories:
 * From Body-oriented Psychotherapies to Feldenkrais®
 
   <a href="{{ site.baseurl }}/downloads/Body-oriented-en.pdf" class="en">From Body-oriented Psychotherapies to Feldenkrais®</a>
+  
   <a href="{{ site.baseurl }}/downloads/Psycho_orientation_corpo-fr.pdf" class="fr">Des Psychothérapies d'Orientation Corporelle à la Méthode Feldenkrais®</a>
+  
   <a href="{{ site.baseurl }}/downloads/Body-oriented-deu.pdf" class="de">Von körperorientierten Psychotherapien zur Feldenkraismethode</a>
   
 * L'image du corps et la conscience de soi: de l'éducation somatique dans le champ psychologique

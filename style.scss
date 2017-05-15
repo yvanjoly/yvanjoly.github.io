@@ -19,7 +19,7 @@ html {
 
 body {
   background: $beige;
-  font: 18px/1.4 $georgia;
+  font: 1em $georgia;
   color: $burgondy;
 }
 
@@ -44,22 +44,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 1.5em;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.3em;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.1em;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 1em;
   color: $gray;
 }
 
@@ -76,11 +76,39 @@ a {
   }
 }
 
-a.fr {
+a.fr, a.en, a.es, a.de, a.pdf {
   background: white;
-  width: 500px;
-  padding: 10;
-  border: 1px solid $burgondy;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 30px 20px;
+  background-origin: border-box;
+  padding: 10px 10px 10px 35px;
+  margin: 1px 10px 1px 0px;
+  border: 2px solid $burgondy;
+  display: inline-block;
+  font-size: 0.8em;
+  max-width: 50%;
+}
+
+a.fr {
+  background-image: url('{{ site.baseurl }}/images/fr.png');
+}
+
+a.en {
+  background-image: url('{{ site.baseurl }}/images/en.png');
+}
+
+a.es {
+  background-image: url('{{ site.baseurl }}/images/es.png');
+}
+
+a.de {
+  background-image: url('{{ site.baseurl }}/images/de.png');
+}
+
+a.pdf {
+  background-image: url('{{ site.baseurl }}/images/pdf.png');
+  background-size: 25px 25px;
 }
 
 ul, ol {
@@ -175,9 +203,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 200px;
-  height: 109px;
-  margin-right: 15px;
+  width: 25%;
 
   @include mobile {
     float: none;
@@ -190,46 +216,19 @@ img {
   }
 }
 
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $georgia;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
 nav {
-  float: left;
+  float: right;
   font-family: $helvetica;
-  font-size: 16px;
+  font-size: 0.9em;
+  width: 75%;
+  margin-top: 40px;
+  text-align: center;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 0.9em;
   }
 
   a {
