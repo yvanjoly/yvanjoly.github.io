@@ -76,7 +76,7 @@ a {
   }
 }
 
-a.fr, a.en, a.es, a.de, a.pdf {
+a.fr, a.en, a.enfr, a.es, a.de, a.pdf {
   background: white;
   background-repeat: no-repeat;
   background-position: left;
@@ -96,6 +96,14 @@ a.fr {
 
 a.en {
   background-image: url('{{ site.baseurl }}/images/en.png');
+}
+
+a.enfr {
+  background-image: url('{{ site.baseurl }}/images/en.png'), url('{{ site.baseurl }}/images/fr.png');
+  background-repeat: no-repeat, no-repeat;
+  background-position: left, 30px;
+  background-size: 30px 20px, 30px 20px;
+  padding-left: 65px;
 }
 
 a.es {
