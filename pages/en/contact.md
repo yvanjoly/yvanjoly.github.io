@@ -13,6 +13,6 @@ Yvan Joly<br>
 St-Lambert, Quebec<br>
 J4S 1H3, Canada<br>
 Telephone et fax: 1-450-671-0638<br>
-E-mail: mailto:yvan@yvanjoly.com<br>
-http://www.yvanjoly.com
+E-mail: {% include email.html %}<br>
+[http://www.yvanjoly.com](http://www.yvanjoly.com)
 

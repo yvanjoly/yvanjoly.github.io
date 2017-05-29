@@ -10,8 +10,8 @@ permalink: /en/training
 
 * In French
 * "Institut de Formation Feldenkrais, programme Sud-France 2011-2014"
-* Visit http://www.ifeld.fr
-* Email: mailto:contact@ifeld.fr
+* Visit [http://www.ifeld.fr](http://www.ifeld.fr)
+* Email: [contact@ifeld.fr](mailto:contact@ifeld.fr)
 
 ## Montréal, Québec: Training for Hands On Somatic Education
 

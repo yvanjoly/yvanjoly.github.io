@@ -4,7 +4,9 @@ title: Somatic Education
 permalink: /en/somatic
 ---
 
-# {{ page.title }}  
+# {{ page.title }}
+
+<a href="{{ site.baseurl }}/downloads/Def_edusom_esp.pdf" class="es">Spanish translation</a>
 
 **SOMATIC EDUCATION is the disciplinary field of a variety of methods concerned with how living bodies ("somas") learn and become aware as they move within the environment.**
 

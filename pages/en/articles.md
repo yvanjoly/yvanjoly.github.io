@@ -8,11 +8,11 @@ permalink: /en/articles
 
 Three categories:
 
-* <a href="{{ site.baseurl }}/en/articles/#somaticeducation">Somatic Education</a>
-* <a href="{{ site.baseurl }}/en/articles/#feldenkraismethod">Feldenkrais Method</a>
+* <a href="{{ site.baseurl }}/en/articles/#somatic">Somatic Education</a>
+* <a href="{{ site.baseurl }}/en/articles/#feldenkrais">Feldenkrais Method</a>
 * <a href="{{ site.baseurl }}/en/articles/#psychology">Feldenkrais Method & Psychology</a>
 
-<h2 id="somaticeducation">Somatic Education</h2>
+<h2 id="somatic">Somatic Education</h2>
 
 * New Définition de l'éducation somatique pour le Dictionnaire de la danse, Larousse, à paraître en septembre 2007
 
@@ -96,7 +96,7 @@ Three categories:
 
   <a href="{{ site.baseurl }}/downloads/Educ-som-def-CodedeontoRES.pdf" class="fr">Définition de l'Éducation somatique</a>
 
-<h2 id="feldenkraismethod">Feldenkrais Method</h2>
+<h2 id="feldenkrais">Feldenkrais Method</h2>
 
 * New Mutual coaching in FI: a list of topics
 
