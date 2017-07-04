@@ -8,9 +8,9 @@ permalink: /en/articles
 
 Three categories:
 
-* <a href="{{ site.baseurl }}/en/articles/#somatic">Somatic Education</a>
-* <a href="{{ site.baseurl }}/en/articles/#feldenkrais">Feldenkrais Method</a>
-* <a href="{{ site.baseurl }}/en/articles/#psychology">Feldenkrais Method & Psychology</a>
+* <a href="{{ site.baseurl }}/en/articles#somatic">Somatic Education</a>
+* <a href="{{ site.baseurl }}/en/articles#feldenkrais">Feldenkrais Method</a>
+* <a href="{{ site.baseurl }}/en/articles#psychology">Feldenkrais Method & Psychology</a>
 
 <h2 id="somatic">Somatic Education</h2>
 

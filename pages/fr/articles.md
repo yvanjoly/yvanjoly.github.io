@@ -8,9 +8,9 @@ permalink: /fr/articles
 
 Three categories:
 
-* <a href="{{ site.baseurl }}/fr/articles/#somatique">Éducation somatique</a>
-* <a href="{{ site.baseurl }}/fr/articles/#feldenkrais">Méthode Feldenkrais</a>
-* <a href="{{ site.baseurl }}/fr/articles/#psychologie">Méthode Feldenkrais et la psychologie</a>
+* <a href="{{ site.baseurl }}/fr/articles#somatique">Éducation somatique</a>
+* <a href="{{ site.baseurl }}/fr/articles#feldenkrais">Méthode Feldenkrais</a>
+* <a href="{{ site.baseurl }}/fr/articles#psychologie">Méthode Feldenkrais et la psychologie</a>
 
 <h2 id="somatique">Éducation somatique</h2>
 
